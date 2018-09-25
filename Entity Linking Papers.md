@@ -2,7 +2,7 @@
   *****
 
   NAACL
-  + 2018 ELDEN: Improved Entity Linking using Densiﬁed Knowledge Graphs  
+  + 2018 ELDEN: Improved Entity Linking using Densiﬁed Knowledge Graphs [code](https://github.com/priyaradhakrishnan0/ELDEN) 
   + 2018 Accurate Text-Enhanced Knowledge Graph Representation Learning
   + 2018 Mixing Context Granularities for Improved Entity Linking on Question Answering Data across Entity Categories
   *****
@@ -19,7 +19,7 @@
   + 2018 Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks
   + 2018 Mapping Text to Knowledge Graph Entities using Multi-Sense LSTMs
   + 2017 Entity Linking via Joint Encoding of Types, Descriptions, and Context   [code](https://github.com/nitishgupta/neural-el/)
-  + 2017 Deep Joint Entity Disambiguation with Local Neural Attention
+  + 2017 Deep Joint Entity Disambiguation with Local Neural Attention [code](https://github.com/dalab/deep-ed)
   *****
 
 
@@ -45,6 +45,10 @@
 
   CIKM
   + 2017 NeuPL: Aention-based Semantic Matching and Pair-Linking for Entity Disambiguation
-
   *****
+
+
+  [Must-read papers on knowledge embedding](https://github.com/thunlp/KRLPapers)
+
+*****
 *****
