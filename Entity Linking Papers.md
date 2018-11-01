@@ -18,7 +18,7 @@
 
   + 2018 Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks
 
-  + 2018 Mapping Text to Knowledge Graph Entities using Multi-Sense LSTMs <✅>
+  + 2018 Mapping Text to Knowledge Graph Entities using Multi-Sense LSTMs [code](https://bitbucket.org/dimkart/ms-lstm) <✅>
   + 2018 Entity Linking within a Social Media Platform: A Case Study on Yelp <✅> 
   + 2018 Effective Use of Context in Noisy Entity Linking
   + 2018 Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks
