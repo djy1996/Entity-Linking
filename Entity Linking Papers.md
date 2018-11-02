@@ -21,7 +21,6 @@
   + 2018 Mapping Text to Knowledge Graph Entities using Multi-Sense LSTMs [code](https://bitbucket.org/dimkart/ms-lstm) <✅>
   + 2018 Entity Linking within a Social Media Platform: A Case Study on Yelp <✅> 
   + 2018 Effective Use of Context in Noisy Entity Linking
-  + 2018 Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks
   + 2017 Entity Linking via Joint Encoding of Types, Descriptions, and Context   [code](https://github.com/nitishgupta/neural-el/) <✅>
   + 2017 Deep Joint Entity Disambiguation with Local Neural Attention [code](https://github.com/dalab/deep-ed) <✅>
 
@@ -57,6 +56,8 @@
 
     CIKM
 
+  + 2018 Short Text Entity Linking with Fine-grained Topics
+
   + 2017 NeuPL: Aention-based Semantic Matching and Pair-Linking for Entity Disambiguation
 
   ******
@@ -64,6 +65,12 @@
     WWW
 
   + 2018 An Attention Factor Graph Model for Tweet Entity Linking
+
+  ******
+
+    CONLL
+
+  + Aggregated Semantic Matching for Short Text Entity Linking
 
 *****
 
